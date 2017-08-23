@@ -1,6 +1,6 @@
 {
   "name": "is-ip",
-  "version": "2.0.0-custom-build",
+  "version": "2.0.0-custom-build-2",
   "description": "Check if a string is an IP address",
   "license": "MIT",
   "repository": "sindresorhus/is-ip",
@@ -40,7 +40,7 @@
     "string"
   ],
   "dependencies": {
-    "ip-regex": "adam187/ip-regex#86c28a59185a441041b0cf1fa16e94ed813e93aa"
+    "ip-regex": "adam187/ip-regex#33a9cb4d8dcf1ddbec0e273be3e4a9b9147fa977"
   },
   "devDependencies": {
     "ava": "*",
